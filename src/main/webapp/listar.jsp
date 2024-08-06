@@ -6,11 +6,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>TAREA 47: CRUD de Cursos</title>
+    <title>TAREA 48: Migrar tarea anterior (proyecto de cursos) a JSTL</title>
     <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/css/styles.css">
 </head>
 <body>
-<h1>TAREA 47: C.U.R.D. de Cursos</h1>
+<h1>TAREA 48: JSTL</h1>
 <p><a href="${pageContext.request.contextPath}/cursos/form">Crear [+]</a></p>
 <div class="form-container">
     <form action="${pageContext.request.contextPath}/buscar" method="post">
